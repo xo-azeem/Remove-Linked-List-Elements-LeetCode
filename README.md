@@ -22,7 +22,7 @@ Example 2:
 
 Example 3:
 
->Input: head = [7,7,7,7], val = 7
+>Input: head = [7,7,7,7], val = 7</br>
 >Output: []
 
 <div align = "center">
